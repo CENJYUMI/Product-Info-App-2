@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ryx Product</string>
+    <string name="productInfoApp">Ryx Product Info</string>
+    <string name="viewallproducts">View All Products</string>
+    <string name="addproducts">Add Products</string>
+    <string name="add">ADD</string>
+    <string name="productName">Product Name</string>
+    <string name="productDesc">Product Description</string>
+    <string name="productPrice">Price</string>
+    <string name="productImage">Upload Photo</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="update2">Update Product</string>
+
+</resources>
